@@ -1,6 +1,6 @@
 {
-  "name": "stress",
-  "version": "1.0.0",
+  "name": "@stress/cli",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "stress": "bin/main",
